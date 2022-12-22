@@ -26,14 +26,14 @@ console.log(color(figlet.textSync('SPARKY Bot', {
 		whitespaceBreak: true
         }), 'yellow'))
 
-console.log(color('\nHello, I am Aswin Sparky, the main Developer of this bot.\n\nThanks for using: SPARKY Bot','aqua'))
+console.log(color('\nHello, I am Deepak, the Developer of this bot.\n\nThanks for using: Deepak Bot','aqua'))
 console.log(color('\nYou can follow me on GitHub: Sparkymon777','aqua'))
 
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const SPARKY = SPARKYConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['SPARKY by: SPARKY-BOT','Safari','1.0.0'],
+        browser: ['SPARKY by: Deepak-BOT','Safari','1.0.0'],
         auth: state,
         version
     })
@@ -72,7 +72,7 @@ SPARKY.ev.on('groups.update', async pea => {
        try {     
        ppgc = await SPARKY.profilePictureUrl(pea[0].id, 'image')
        } catch {
-       ppgc = 'https://wallpapercave.com/wp/wp10524580.jpg'
+       ppgc = 'https://i.ibb.co/Wx5j8M0/IMG-20221218-110106.jpg'
        }
        let wm_fatih = { url : ppgc }
        if (pea[0].announce == true) {
@@ -91,7 +91,7 @@ SPARKY.ev.on('groups.update', async pea => {
         try {
         ppgc = await SPARKY.profilePictureUrl(pea[0].id, 'image')
         } catch {
-        ppgc = 'https://wallpapercave.com/wp/wp10524580.jpg'
+        ppgc = 'https://i.ibb.co/Wx5j8M0/IMG-20221218-110106.jpg'
         }
         let wm_fatih = { url : ppgc }
         if (pea[0].announce == true) {
@@ -133,13 +133,13 @@ SPARKY.ev.on('group-participants.update', async (anu) => {
                 try {
                     ppuser = await SPARKY.profilePictureUrl(num, 'image')
                 } catch {
-                    ppuser = 'https://wallpapercave.com/wp/wp10753770.jpg'
+                    ppuser = 'https://i.ibb.co/Wx5j8M0/IMG-20221218-110106.jpg'
                 }
 
                 try {
                     ppgroup = await SPARKY.profilePictureUrl(anu.id, 'image')
                 } catch {
-                    ppgroup = 'https://telegra.ph/file/4cc2712eee93c105f6739.jpg'
+                    ppgroup = 'https://i.ibb.co/Wx5j8M0/IMG-20221218-110106.jpg'
                 }
 
                 let targetname = await SPARKY.getName(num)

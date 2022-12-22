@@ -1,0 +1,3 @@
+{
+	"name": "DeepakBot Multi Device + "
+}

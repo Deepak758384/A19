@@ -1,6 +1,6 @@
 
 
-<h1 align="center">DEEPAK-BOT<br></h1>
+<h1 align="center">🦄Dream Guy Deepak<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/Wx5j8M0/IMG-20221218-110106.jpg" alt="animated" width="255" height="480" />
 </p>

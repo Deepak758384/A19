@@ -10,7 +10,7 @@ Deepak Bot Multi Device is a automated whatsapp bot created by <a href="https://
 </p>
 
 <p align="center">
-<a href="https://youtu.be/u7mArDtlTZk"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://youtube.com/@dreamguydeepak"><img title="Size" src="https://img.shields.io/badge/Subscribe-green"></a>
 </p>
 
 # Install
@@ -41,7 +41,7 @@ Deepak Bot Multi Device is a automated whatsapp bot created by <a href="https://
 <p align="center">
 <a href="https://wa.me/918348225320"><img src="https://img.shields.io/badge/Contact Deepak-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/@dreamguydeepak"><img src="https://img.shields.io/badge/Subscribe SPARKY'S CHANNEL-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://youtube.com/@dreamguydeepak"><img src="https://img.shields.io/badge/Subscribe Dream Guy Deepak-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 

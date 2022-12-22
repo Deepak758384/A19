@@ -5,11 +5,11 @@
 <img src="https://i.ibb.co/Wx5j8M0/IMG-20221218-110106.jpg" alt="animated" width="255" height="480" />
 </p>
 
-<p align="center">
+```bash
 Hey i am Deepak
 Age 16
 From Darjeeling
-</P>
+```
 
 <p align="center">
 Deepak Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGDEEPAK" target="_blank">Deepak</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.

@@ -5455,11 +5455,8 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
       
-const helpmenu = `Hello *${pushname}* Dear...!! ,
-
-
- I am *Deepak-Bot*, A Bot Made by *🦄Dream Guy Deepak*.
-
+const helpmenu = `Hello👋🏻 *${pushname}* ,
+How are you?.
 
 ╭═══〘 Deepak-Bot 〙═══⊷❍
 ┃☣️ 𝘖𝘸𝘯𝘦𝘳 : 🦄Dream Guy Deepak 

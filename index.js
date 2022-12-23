@@ -18,7 +18,7 @@ const { color } = require('./lib/color')
 const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
 
 async function startSPARKY() {
-console.log(color(figlet.textSync('SPARKY Bot', {
+console.log(color(figlet.textSync('Deepak-Bot', {
 		font: 'Pagga',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
@@ -27,13 +27,13 @@ console.log(color(figlet.textSync('SPARKY Bot', {
         }), 'yellow'))
 
 console.log(color('\nHello, I am Deepak, the Developer of this bot.\n\nThanks for using: Deepak Bot','aqua'))
-console.log(color('\nYou can follow me on GitHub: Sparkymon777','aqua'))
+console.log(color('\nYou can follow me on GitHub: DGDEEPAK','aqua'))
 
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const SPARKY = SPARKYConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['SPARKY by: Deepak-BOT','Safari','1.0.0'],
+        browser: ['Deepak by: Deepak-BOT','Safari','1.0.0'],
         auth: state,
         version
     })

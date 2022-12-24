@@ -7,7 +7,7 @@ global.autoReadAll = false
 global.antitags = true
 
 //aumto functioner
-//global.autoTyping = false //auto tying in gc (true to on, false to off)
+//global.autoTyping = True //auto tying in gc (true to on, false to off)
 //global.autoRecord = false //auto recording (true to on, false to off)
 
 global.Owner = ['916202316574']
@@ -29,7 +29,7 @@ global.prefa = ['-']
 global.location = ", India"
 global.reactmoji = "🦄"
 global.themeemoji = "🦄"
-global.vidmenu = { url: '' }
+global.vidmenu = { url: 'https://uploadnow.io/files/w4gB09s' }
 global.websitex = "https://chat.whatsapp.com/HAgTIrUxvFK9SNTom2KOQH"
 global.lolhuman = "Deepak"
 

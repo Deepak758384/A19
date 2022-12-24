@@ -37,7 +37,7 @@ Deepak Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## DEPLOY ON RAILWAY 
 
-[![Deploy on Railway](https://railway.app/button.svg)]
+
 
 
 

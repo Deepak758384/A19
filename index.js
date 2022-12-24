@@ -149,10 +149,10 @@ SPARKY.ev.on('group-participants.update', async (anu) => {
                 if (anu.action == 'add') {
                 let WAuserName = num
                 SPARKYtext = `
-Hello @${WAuserName.split("@")[0]},
+Hello baby @${WAuserName.split("@")[0]},
 
-I am *DeepakBot*, Welcome to ${metadata.subject}.
-
+I am *A19*, Welcome to ${metadata.subject}.
+INTRODUCTION PLEASE 😗
 *Group Description:*
 ${metadata.desc}
 `
@@ -168,12 +168,12 @@ SPARKY.sendMessage(anu.id, buttonMessage)
                 } else if (anu.action == 'remove') {
                 	let WAuserName = num
                     SPARKYtext = `
-Okay Bye 👋, @${WAuserName.split("@")[0]},
+Bye Bye 👋, @${WAuserName.split("@")[0]},
 
-I hope you will come back soon, but You will be missed!
+,You will be missed! JAY SHREE RAM ⚡✨
 `
 
-    let buttonMessage = {
+    let buttonMessage = {JAY SHREE RAM }
 	image:await getBuffer(ppuser),
     mentions: [num],
     caption: SPARKYtext,

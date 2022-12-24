@@ -10,27 +10,27 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = false //auto recording (true to on, false to off)
 
-global.Owner = ['918348225320']
-global.OwnerNumber = ['918348225320']
-global.ownertag = ['918348225320']
-global.BotName = "DeepakBot"
-global.packname = "DeepakBot"
-global.author = "🦄Dream Guy Deepak"
-global.OwnerName = "🦄Dream Guy Deepak"
-global.BotSourceCode = "https://youtube.com/@dreamguydeepak"
-global.SupportGroupLink = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1"
+global.Owner = ['916202316574']
+global.OwnerNumber = ['916202316574']
+global.ownertag = ['916202316574']
+global.BotName = "A19"
+global.packname = "A19"
+global.author = "🦄Deepak"
+global.OwnerName = "�Deepak"
+global.BotSourceCode = "PRIVATE"
+global.SupportGroupLink = "https://chat.whatsapp.com/HAgTIrUxvFK9SNTom2KOQH"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from SPARKY.js  otherwise buttons will not work //
-global.prefa = ['.'] 
+global.prefa = ['-'] 
 
 
-global.location = "Darjeeling, India"
+global.location = ", India"
 global.reactmoji = "🦄"
 global.themeemoji = "🦄"
-global.vidmenu = { url: 'https://i.ibb.co/Wx5j8M0/IMG-20221218-110106.jpg' }
-global.websitex = "https://youtube.com/@dreamguydeepak"
+global.vidmenu = { url: '' }
+global.websitex = "https://chat.whatsapp.com/HAgTIrUxvFK9SNTom2KOQH"
 global.lolhuman = "Deepak"
 
 
